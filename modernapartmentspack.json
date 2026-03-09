@@ -1,12 +1,4 @@
 {
-  "AuthorizedExperiences": [
-    {
-      "CreatorId": 0,
-      "CreatorType": "Group"
-    },
-    {
-      "CreatorId": 4151038267,
-      "CreatorType": "User"
-    }
-  ]
+  "owners": [4151038267],
+  "players": []
 }
